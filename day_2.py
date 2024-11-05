@@ -41,3 +41,5 @@ print(5 // 3)
 print(5**2)
 print(3 * 3 + 3 / 3 - 3) #from left to right but priority is умножение и потом деление
 print(3 * (3 + 3) / 3 - 3)
+
+#fref
